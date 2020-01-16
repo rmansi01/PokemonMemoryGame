@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PokemonMemoryGame</string>
+    <string name="twice">No puedes pulsar la misma carta dos veces seguidas</string>
+</resources>
